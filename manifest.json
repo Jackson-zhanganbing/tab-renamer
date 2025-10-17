@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Renamer Pro",
+  "version": "1.0.0",
+  "description": "智能重命名浏览器标签，解决多IP环境管理难题，提升工作效率",
+  "permissions": [
+    "tabs",
+    "storage",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Tab Renamer Pro"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

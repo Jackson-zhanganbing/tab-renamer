@@ -1,0 +1,167 @@
+[
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "newName": "国内预生产日志",
+        "urlPattern": "10.64.10.209:5601"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "newName": "国内生产日志2",
+        "urlPattern": "10.64.14.204:5602"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "newName": "中南美预生产Nacos",
+        "urlPattern": "101.44.187.189/nacos"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgugburzgv0uu9vqmzp",
+        "newName": "中南美预生产日志",
+        "urlPattern": "110.238.80.164:5601"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgui1w3tq02jr8cgxde",
+        "newName": "东盟预生产和生产K8S",
+        "urlPattern": "114.119.183.115:30880"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgui2dzfzp00v7nya6g",
+        "newName": "东盟生产日志",
+        "urlPattern": "159.138.121.191:5601"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgu9yqn8iipvycimren",
+        "newName": "阿联酋预生产日志",
+        "urlPattern": "188.116.29.145:5601"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mguay1zvgw91san4lea",
+        "newName": "阿联酋预生产K8S",
+        "urlPattern": "188.116.29.145:8000"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbz5x5vk97nrmp7kp",
+        "newName": "独联体生产K8S",
+        "urlPattern": "188.72.108.228:8000"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbxx5bqrn6nlckpmc",
+        "newName": "独联体生产Nacos",
+        "urlPattern": "188.72.108.228/nacos"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbvfz5wswgm0r9t1",
+        "newName": "独联体生产日志",
+        "urlPattern": "37.230.195.136:5601"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbvw3h6c4djzylkd5",
+        "newName": "独联体预生产日志",
+        "urlPattern": "37.230.196.54:5601"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbym52phs7vfdni28",
+        "newName": "独联体预生产K8S",
+        "urlPattern": "46.243.205.93:30880"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbuoj1wdnaehntzom",
+        "newName": "欧盟预生产门户",
+        "urlPattern": "ca-portal-uat.iov.changanauto.com.de"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mguingw3vfuev4d3qh",
+        "newName": "东盟预生产门户",
+        "urlPattern": "ca-portal-uat.iov.changanauto.sg"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbu68846gpxcw471y",
+        "newName": "欧盟生产门户",
+        "urlPattern": "ca-portal.iov.changanauto.com.de"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mguhznfmq4fwn09odo",
+        "newName": "东盟生产",
+        "urlPattern": "ca-portal.iov.changanauto.sg"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mguj60n0n8ynnbtbz4",
+        "newName": "阿联酋预生产门户",
+        "urlPattern": "portal-uat.ae.changanauto.link"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbx3pbudtou38p9r",
+        "newName": "独联体预生产门户",
+        "urlPattern": "portal-uat.iov.changanauto.ru"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgug3lqrv3vksze12il",
+        "newName": "阿联酋生产门户",
+        "urlPattern": "portal.ae.changanauto.link"
+    },
+    {
+        "enabled": true,
+        "type": "url",
+        "matchType": "contains",
+        "id": "mgtbwpn1cyt9mu9bpv5",
+        "newName": "独联体生产门户",
+        "urlPattern": "portal.iov.changanauto.ru"
+    }
+]
